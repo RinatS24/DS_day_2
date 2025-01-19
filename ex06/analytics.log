@@ -1,0 +1,13 @@
+2025-01-10 21:39:05,386 Launching constructor of Research
+2025-01-10 21:39:05,392 Successful open and read the file
+2025-01-10 21:39:05,393 Successful read lines
+2025-01-10 21:39:05,393 Launching constructor of Calculations
+2025-01-10 21:39:05,393 Launching constructor of Analytics
+2025-01-10 21:39:05,393 Counting the number of heads and tails
+2025-01-10 21:39:05,393 Counting fractions
+2025-01-10 21:39:05,393 Counting random throws
+2025-01-10 21:39:05,394 Launching constructor of Calculations
+2025-01-10 21:39:05,394 Launching constructor of Analytics
+2025-01-10 21:39:05,394 Counting the number of heads and tails
+2025-01-10 21:39:05,394 Successful writing of a message to a report.txt
+2025-01-10 21:39:05,852 Successful to sent Telegram message
